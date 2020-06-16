@@ -1,7 +1,7 @@
 
 class Welcome extends React.Component {
     render() {
-      return <h1>Thành nè, {this.props.name1}</h1>;
+      return <h1>Thành nè,1 {this.props.name1}</h1>;
     }
   }
 ReactDOM.render(
